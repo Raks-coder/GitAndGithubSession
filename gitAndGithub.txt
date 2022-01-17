@@ -1,0 +1,6 @@
+To use ls command in windows use: dir
+
+To show hidden directories in windows use: dir /a:hd (h stands for hidden and d for directories)
+
+To use touch command in windows use: echo >> filename.extension
+

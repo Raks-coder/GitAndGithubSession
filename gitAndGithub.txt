@@ -6,4 +6,8 @@
 
 -> Use git status to know which files have been changed in a project
 
+-> Use git restore --staged to remove before committing
+
+-> Use git log to see the commit history
+
 -> 

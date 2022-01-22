@@ -10,4 +10,24 @@
 
 -> Use git log to see the commit history
 
+-> What to do if we have committed something by mistake???
+
+	Answer : 1) Use git log
+	
+			 2) Get the hash of the commit just before the ones you want to undo , from the log
+			 
+			 3) Use git reset <hash>
+			 
+			 4) Use git restore or git stash depending upon your need
+			 
+-> To reload the stashed changes make use of -  git stash pop
+
+-> Use git stash clear to remove the uncommitted changes
+
+GitHub
+------
+
+
+-> To add remote repo : git remote add origin <URL> // Here origin is basically a name that is associated with the url, by default origin is used for personal account
+
 -> 

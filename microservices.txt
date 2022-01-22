@@ -1,0 +1,6 @@
+
+Let us consider a sample microservice application (web based):
+
+1)Client sends request to a loadbalancer which further routes out the requests depending upon the load
+
+1)
